@@ -35,8 +35,8 @@ Currently looking for **professional internships** in data-related roles.*
 
 ##  Mini Proyectos ML (Colaborativos) | ML Mini Projects (Collaborative)
 
-> **ES:** Desarrollados en colaboración con compañeros en la materia de Machine Learning — Universidad del Norte. Publicados como Jupyter Books.
-> **EN:** Developed in collaboration with classmates as part of the Machine Learning course at Universidad del Norte. Published as Jupyter Books.
+> Desarrollados en colaboración con compañeros en la materia de Machine Learning — Universidad del Norte. Publicados como Jupyter Books.
+> Developed in collaboration with classmates as part of the Machine Learning course at Universidad del Norte. Published as Jupyter Books.
 
 | # | Proyecto / Project | Algoritmo / Algorithm | Link |
 |---|-------------------|----------------------|------|
@@ -61,6 +61,6 @@ Currently looking for **professional internships** in data-related roles.*
 
 ##  Idiomas | Languages
 
-- 🇨🇴 **Español** — Nativo / Native
-- 🇺🇸 **Inglés / English** — Nivel profesional / Professional working proficiency (B2)
+- **Español** — Nativo / Native
+- **Inglés / English** —  (B1)
 
